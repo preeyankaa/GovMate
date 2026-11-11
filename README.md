@@ -1,4 +1,4 @@
-# GovMate: AI-Powered Government Services Chatbot
+# GovMate: AI-Powered Government Services Chatbot 
 
 ## Overview
 **GovMate** is an AI-driven platform designed to simplify government processes and provide 24/7 support for citizens. It offers specialized chatbots for various government services, including tax filing, pension assistance, healthcare, housing, employment, and education. The platform leverages advanced AI technologies like **Pinecone** for vector search, **Groq** for natural language processing, and **Flask** for backend services.
